@@ -50,8 +50,9 @@ Usage
 To access the project, open your browser and navigate to http://localhost:3000.
 
 Below are the screenshots showcasing the project:
+![Screenshot 2024-10-02 141256](https://github.com/user-attachments/assets/e879d264-8b95-4f13-88cd-a50787a26258)
+![Screenshot 2024-10-02 141311](https://github.com/user-attachments/assets/0ad2bbbb-5d9c-474e-9b8a-21cec0e5c558)
+![Screenshot 2024-10-02 141246](https://github.com/user-attachments/assets/749b2e61-07bb-459f-801e-974b174442f8)
 
-![Screenshot 2024-10-02 141256](https://github.com/user-attachments/assets/55ce4ffb-0cd1-43aa-a4a1-6df94645d7d8)
-![Screenshot 2024-10-02 141311](https://github.com/user-attachments/assets/600224c2-e215-4e69-8b03-c64b02ffee61)
-![Screenshot 2024-10-02 141246](https://github.com/user-attachments/assets/0971d2f5-2104-4a47-a8ae-ff72b2a8bcc8)
+
 
